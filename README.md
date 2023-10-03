@@ -56,9 +56,13 @@ From the beginning of the project till the end of deployment, Every steps with p
 5.Ohio has the lowest division points and all.
 
 ## Dataset Link :-
+https://github.com/Shubasarkar1999/iNeuron/blob/main/winequality-red.csv
+https://github.com/Shubasarkar1999/iNeuron/blob/main/winequality-white.csv
 
 
 ## Power BI Dashboard :-
+https://github.com/Shubasarkar1999/iNeuron/blob/main/Wine%20Analytics%20Dashboard.pbix
 
 ## Linkedln Profile :-
+https://www.linkedin.com/in/shuba-sarkar-401686164/
 
